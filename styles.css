@@ -1,2 +1,23 @@
 
+table{
+    width: 700px;
+}
+
+thead{
+    background-color: red;
+}
+
+table th td{
+    border: 1px solid black;
+    
+}
+
+
+th{
+    text-align: left;
+}
+
+td{
+    text-align: end;
+}
 /* Your CSS Code here. */
